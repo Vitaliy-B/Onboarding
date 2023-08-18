@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+
+    <string name="text_skip">Skip</string>
+    <string name="text_title_welcome">Welcome to Smart IPTV</string>
+    <string name="text_title_watch">Watch movie and TV</string>
+    <string name="text_title_easy">Easy to use</string>
+    <string name="text_main">Lorem ipsum dolor sit amet, consectetur elit. Morbi ultrices maximus dui, id imperdiet erat sollicitudin mattis, morbi sed ipsum.</string>
+    <string name="text_continue">Continue</string>
+
+</resources>
